@@ -5,6 +5,8 @@ Hey There
 This repo a couple of scripts (and those are perfect manuals at the same time) that lets you deploy a VPN server in a matter of minutes.
 It requires a fresh `Ubuntu 16.04`
 
+Adding Support for 'Debian 8 "Jessie"'
+
 You're welcome to browse the `.sh` files and hack your own out of those, or just use the commands below to quickly get the job done.
 
 These scripts are based on this cool tutorial article: https://www.digitalocean.com/community/tutorials/how-to-set-up-an-ikev2-vpn-server-with-strongswan-on-ubuntu-16-04 (thanks DigitalOcean!)
